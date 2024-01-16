@@ -1,6 +1,6 @@
 # About Me 🐇💻
 
-Hey there, I'm Soda, a developer with a furry twist. I'm all about bringing my unique style to the tech world. 🌸
+Hey there, I'm Soda, a developer with a twist. I'm all about bringing my unique style to the tech world. 🌸
 
 ![i'm the cutest bunny](https://i.imgur.com/ZGzwjke.png)
 
